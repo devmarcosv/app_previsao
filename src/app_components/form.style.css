@@ -9,4 +9,19 @@ form {
     border: none;
     border-bottom: 2px solid whitesmoke;
     border-radius: 0;
+    float: right;
+    margin-right: 25px;
+    align-content: center;
   }
+  button{
+   display: flex;
+   float: right;
+   margin-right: 4.5px;
+   background-color: #136F63;
+   color:#fff;
+   padding: 7px 25px;
+   font-size: 10px;
+   text-decoration: none;
+   border: none;
+  
+ }

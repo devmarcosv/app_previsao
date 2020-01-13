@@ -10,5 +10,12 @@
     background-color: transparent;
     box-shadow: none !important;
     border: none;
-    border-bottom: 2px solid tomato;
+    border-bottom: 2px solid;
   }
+
+  .App{
+    position: relative;
+    margin-top: 20px;
+    padding-top: 2rem;
+  }
+  
