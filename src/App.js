@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import Form from "./app_components/form.component";
 import Weather from "./app_components/weather.component";
-import "bootstrap/dist/css/bootstrap.min.css";
+
 
 // git project https://github.com/erikflowers/weather-icons
 import "weather-icons/css/weather-icons.css";

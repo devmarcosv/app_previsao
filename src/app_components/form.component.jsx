@@ -21,9 +21,7 @@ const Form = props => {
               type="text"
               className="form-control"
               placeholder="Country"
-              name="country"
-              autoComplete="off"
-            />
+              name="country" />
           </div>
           <div className="col-md-3 mt-md-0 mt-2 text-md-left ">
             <button className="btn btn-warning">Previsão</button>
